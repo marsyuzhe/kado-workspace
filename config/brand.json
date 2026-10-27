@@ -1,0 +1,18 @@
+{
+  "appDisplayName": "KADO Desk",
+  "appShortName": "KADO",
+  "appDescription": "个人数字工作台",
+  "authorName": "Links Tam",
+  "version": "2.4.0",
+  "buildNumber": 24,
+  "websiteUrl": "",
+  "repositoryUrl": "",
+  "copyrightText": "© 2026 Links Tam",
+  "brandAssetPath": "assets/brand/app_icon_1024.png",
+  "artifactPrefix": "KADO-Desk",
+  "workingName": true,
+  "compatibility": {
+    "windowsCompanyName": "Links Tam",
+    "windowsProductName": "Links Toolbox"
+  }
+}
