@@ -1,0 +1,14 @@
+[
+  {
+    "file": "NotoSansSC.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanssc/NotoSansSC%5Bwght%5D.ttf",
+    "upstreamSha256": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da",
+    "sha256": "4bb8729b9919757a8c0f23a6d35cb962b5a8001171a3106f441a30d274cff60e",
+    "transformation": "FontTools 4.67.0 instantiateVariableFont wght=400; OFL reserved name Source is not used by Noto Sans SC"
+  },
+  {
+    "file": "OFL.txt",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosanssc/OFL.txt",
+    "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+  }
+]

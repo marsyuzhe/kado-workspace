@@ -1,0 +1,348 @@
+[
+  {
+    "assetId": "links",
+    "type": "spriteSheet",
+    "author": "Links Toolbox / Links Tam",
+    "source": "scripts/generate_pixel_studio.py",
+    "origin": "original integer-grid drawing",
+    "license": "CC0-1.0",
+    "dimensions": [
+      256,
+      816
+    ],
+    "frameCount": 136,
+    "frameDuration": {
+      "walk": 100,
+      "sit": 50,
+      "stand": 50,
+      "default": 160
+    },
+    "animationTags": [
+      "idle",
+      "walk_up",
+      "walk_down",
+      "walk_left",
+      "walk_right",
+      "sit",
+      "typing",
+      "reading",
+      "thinking",
+      "talking",
+      "waiting",
+      "success",
+      "error",
+      "stand",
+      "meeting",
+      "rest",
+      "deliver"
+    ],
+    "version": 2
+  },
+  {
+    "assetId": "byte",
+    "type": "spriteSheet",
+    "author": "Links Toolbox / Links Tam",
+    "source": "scripts/generate_pixel_studio.py",
+    "origin": "original integer-grid drawing",
+    "license": "CC0-1.0",
+    "dimensions": [
+      256,
+      816
+    ],
+    "frameCount": 136,
+    "frameDuration": {
+      "walk": 100,
+      "sit": 50,
+      "stand": 50,
+      "default": 160
+    },
+    "animationTags": [
+      "idle",
+      "walk_up",
+      "walk_down",
+      "walk_left",
+      "walk_right",
+      "sit",
+      "typing",
+      "reading",
+      "thinking",
+      "talking",
+      "waiting",
+      "success",
+      "error",
+      "stand",
+      "meeting",
+      "rest",
+      "deliver"
+    ],
+    "version": 2
+  },
+  {
+    "assetId": "nova",
+    "type": "spriteSheet",
+    "author": "Links Toolbox / Links Tam",
+    "source": "scripts/generate_pixel_studio.py",
+    "origin": "original integer-grid drawing",
+    "license": "CC0-1.0",
+    "dimensions": [
+      256,
+      816
+    ],
+    "frameCount": 136,
+    "frameDuration": {
+      "walk": 100,
+      "sit": 50,
+      "stand": 50,
+      "default": 160
+    },
+    "animationTags": [
+      "idle",
+      "walk_up",
+      "walk_down",
+      "walk_left",
+      "walk_right",
+      "sit",
+      "typing",
+      "reading",
+      "thinking",
+      "talking",
+      "waiting",
+      "success",
+      "error",
+      "stand",
+      "meeting",
+      "rest",
+      "deliver"
+    ],
+    "version": 2
+  },
+  {
+    "assetId": "ink",
+    "type": "spriteSheet",
+    "author": "Links Toolbox / Links Tam",
+    "source": "scripts/generate_pixel_studio.py",
+    "origin": "original integer-grid drawing",
+    "license": "CC0-1.0",
+    "dimensions": [
+      256,
+      816
+    ],
+    "frameCount": 136,
+    "frameDuration": {
+      "walk": 100,
+      "sit": 50,
+      "stand": 50,
+      "default": 160
+    },
+    "animationTags": [
+      "idle",
+      "walk_up",
+      "walk_down",
+      "walk_left",
+      "walk_right",
+      "sit",
+      "typing",
+      "reading",
+      "thinking",
+      "talking",
+      "waiting",
+      "success",
+      "error",
+      "stand",
+      "meeting",
+      "rest",
+      "deliver"
+    ],
+    "version": 2
+  },
+  {
+    "assetId": "pix",
+    "type": "spriteSheet",
+    "author": "Links Toolbox / Links Tam",
+    "source": "scripts/generate_pixel_studio.py",
+    "origin": "original integer-grid drawing",
+    "license": "CC0-1.0",
+    "dimensions": [
+      256,
+      816
+    ],
+    "frameCount": 136,
+    "frameDuration": {
+      "walk": 100,
+      "sit": 50,
+      "stand": 50,
+      "default": 160
+    },
+    "animationTags": [
+      "idle",
+      "walk_up",
+      "walk_down",
+      "walk_left",
+      "walk_right",
+      "sit",
+      "typing",
+      "reading",
+      "thinking",
+      "talking",
+      "waiting",
+      "success",
+      "error",
+      "stand",
+      "meeting",
+      "rest",
+      "deliver"
+    ],
+    "version": 2
+  },
+  {
+    "assetId": "patch",
+    "type": "spriteSheet",
+    "author": "Links Toolbox / Links Tam",
+    "source": "scripts/generate_pixel_studio.py",
+    "origin": "original integer-grid drawing",
+    "license": "CC0-1.0",
+    "dimensions": [
+      256,
+      816
+    ],
+    "frameCount": 136,
+    "frameDuration": {
+      "walk": 100,
+      "sit": 50,
+      "stand": 50,
+      "default": 160
+    },
+    "animationTags": [
+      "idle",
+      "walk_up",
+      "walk_down",
+      "walk_left",
+      "walk_right",
+      "sit",
+      "typing",
+      "reading",
+      "thinking",
+      "talking",
+      "waiting",
+      "success",
+      "error",
+      "stand",
+      "meeting",
+      "rest",
+      "deliver"
+    ],
+    "version": 2
+  },
+  {
+    "assetId": "desk",
+    "type": "furniture",
+    "author": "Links Toolbox / Links Tam",
+    "source": "scripts/generate_pixel_studio.py",
+    "origin": "original integer-grid drawing",
+    "license": "CC0-1.0",
+    "dimensions": [
+      96,
+      96
+    ],
+    "frameCount": 1,
+    "frameDuration": 0,
+    "animationTags": [],
+    "version": 2
+  },
+  {
+    "assetId": "meeting",
+    "type": "furniture",
+    "author": "Links Toolbox / Links Tam",
+    "source": "scripts/generate_pixel_studio.py",
+    "origin": "original integer-grid drawing",
+    "license": "CC0-1.0",
+    "dimensions": [
+      96,
+      96
+    ],
+    "frameCount": 1,
+    "frameDuration": 0,
+    "animationTags": [],
+    "version": 2
+  },
+  {
+    "assetId": "sofa",
+    "type": "furniture",
+    "author": "Links Toolbox / Links Tam",
+    "source": "scripts/generate_pixel_studio.py",
+    "origin": "original integer-grid drawing",
+    "license": "CC0-1.0",
+    "dimensions": [
+      96,
+      96
+    ],
+    "frameCount": 1,
+    "frameDuration": 0,
+    "animationTags": [],
+    "version": 2
+  },
+  {
+    "assetId": "plant",
+    "type": "furniture",
+    "author": "Links Toolbox / Links Tam",
+    "source": "scripts/generate_pixel_studio.py",
+    "origin": "original integer-grid drawing",
+    "license": "CC0-1.0",
+    "dimensions": [
+      96,
+      96
+    ],
+    "frameCount": 1,
+    "frameDuration": 0,
+    "animationTags": [],
+    "version": 2
+  },
+  {
+    "assetId": "shelf",
+    "type": "furniture",
+    "author": "Links Toolbox / Links Tam",
+    "source": "scripts/generate_pixel_studio.py",
+    "origin": "original integer-grid drawing",
+    "license": "CC0-1.0",
+    "dimensions": [
+      96,
+      96
+    ],
+    "frameCount": 1,
+    "frameDuration": 0,
+    "animationTags": [],
+    "version": 2
+  },
+  {
+    "assetId": "coffee",
+    "type": "furniture",
+    "author": "Links Toolbox / Links Tam",
+    "source": "scripts/generate_pixel_studio.py",
+    "origin": "original integer-grid drawing",
+    "license": "CC0-1.0",
+    "dimensions": [
+      96,
+      96
+    ],
+    "frameCount": 1,
+    "frameDuration": 0,
+    "animationTags": [],
+    "version": 2
+  },
+  {
+    "assetId": "office_shell",
+    "type": "room",
+    "author": "Links Toolbox / Links Tam",
+    "source": "scripts/generate_pixel_studio.py",
+    "origin": "original integer-grid drawing",
+    "license": "CC0-1.0",
+    "dimensions": [
+      640,
+      448
+    ],
+    "frameCount": 1,
+    "frameDuration": 0,
+    "animationTags": [],
+    "version": 2
+  }
+]
