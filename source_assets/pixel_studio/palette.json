@@ -1,0 +1,44 @@
+{
+  "links": {
+    "hair": "#23252d",
+    "coat": "#353c49",
+    "trim": "#879bb7",
+    "skin": "#e2b99d",
+    "style": 0
+  },
+  "byte": {
+    "hair": "#222d40",
+    "coat": "#242b3a",
+    "trim": "#769fc8",
+    "skin": "#d8ab91",
+    "style": 1
+  },
+  "nova": {
+    "hair": "#636578",
+    "coat": "#384a68",
+    "trim": "#b7c7d7",
+    "skin": "#edd1b0",
+    "style": 2
+  },
+  "ink": {
+    "hair": "#6e4e44",
+    "coat": "#4c4446",
+    "trim": "#c6a97e",
+    "skin": "#e9bca2",
+    "style": 3
+  },
+  "pix": {
+    "hair": "#b4a9a4",
+    "coat": "#45414f",
+    "trim": "#b6a1c6",
+    "skin": "#ecc5ad",
+    "style": 4
+  },
+  "patch": {
+    "hair": "#4a4b51",
+    "coat": "#949caa",
+    "trim": "#dce0df",
+    "skin": "#d9b49c",
+    "style": 5
+  }
+}
